@@ -17,5 +17,6 @@ include 'services:webservice'
 
 include 'app-run'
 include 'logback'
+include 'web'
 
 rootProject.name = 'modules'

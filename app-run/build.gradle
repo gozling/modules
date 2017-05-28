@@ -5,6 +5,7 @@ dependencies {
 
 
 	compile project(":logback")
+	compile project(":web")
 	
 }
 
