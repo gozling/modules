@@ -18,5 +18,6 @@ include 'services:webservice'
 include 'app-run'
 include 'logback'
 include 'web'
+include 'myava'
 
 rootProject.name = 'modules'
